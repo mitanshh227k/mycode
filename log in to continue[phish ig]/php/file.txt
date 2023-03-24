@@ -1,0 +1,15 @@
+Ip: 152.58.181.224
+City: Kolkata
+Region: West Bengal - WB
+Country: India - IN
+Coordinates: 22.518 - 88.3832 ( Will Not the Exact Location !)
+Organization: Reliance Jio Infocomm Limited
+Timezone: Asia/Kolkata | Time: 22:41
+Platform: Win32 | null | null 
+Ram: 8
+Browser: Chrome 111.0.0.0
+Full User Agent info: Chrome 111.0.0.0 on Windows 10 64-bit |or| Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 ||
+Screen-Width: 1366px | Screen-Height: 768px
+
+Old Password: kiiluvylit
+
